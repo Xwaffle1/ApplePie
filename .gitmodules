@@ -1,6 +1,6 @@
-[submodule "TemTem.ApplePie"]
-	path = TemTem.ApplePie
+[submodule "ApplePieSyringe"]
+	path = ApplePieSyringe
 	url = https://github.com/Xwaffle1/ApplePieSyringe.git
-[submodule "ApplePie"]
-	path = ApplePie
+[submodule "RoboApplePie"]
+	path = RoboApplePie
 	url = https://github.com/Xwaffle1/RoboApplePie.git
